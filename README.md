@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/newshomepage-Fzw988FEZV)
-- Live Site URL: [Add live site URL here](https://emamhossainemo.github.io/news-homepage-frontend-mentor-challenge)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/newshomepage-Fzw988FEZV)
+- Live Site URL: [Click here](https://emamhossainemo.github.io/news-homepage-frontend-mentor-challenge)
 
 ## My process
 
